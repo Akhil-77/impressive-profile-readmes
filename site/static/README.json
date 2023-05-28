@@ -227,30 +227,7 @@
 						},
 						"children": []
 					},
-					{
-						"type": "text",
-						"value": " if you found this helpful. Also, We are excited at the prospect of building an impressive community together! Therefore, we would be delighted if you joined our "
-					},
-					{
-						"type": "element",
-						"tag": "a",
-						"props": { "href": "https://t.me/+ClkvicPF4D0xNzE1" },
-						"children": [
-							{
-								"type": "element",
-								"tag": "img",
-								"props": {
-									"src": "https://img.shields.io/badge/Telegram_Group-2CA5E0?style=flat-square&logo=telegram&logoColor=white",
-									"alt": "Telegram"
-								},
-								"children": []
-							}
-						]
-					},
-					{
-						"type": "text",
-						"value": " to stay up-to-date with the latest developments in IPR and other outstanding open-source projects."
-					}
+					{ "type": "text", "value": " if you found this helpful." }
 				]
 			},
 			{
@@ -1117,6 +1094,19 @@
 							{
 								"type": "element",
 								"tag": "a",
+								"props": { "href": "https://github.com/Ragdata" },
+								"children": [{ "type": "text", "value": "Ragdata" }]
+							}
+						]
+					},
+					{
+						"type": "element",
+						"tag": "li",
+						"props": {},
+						"children": [
+							{
+								"type": "element",
+								"tag": "a",
 								"props": { "href": "https://github.com/rahul-jha98" },
 								"children": [{ "type": "text", "value": "rahul-jha98" }]
 							}
@@ -1392,6 +1382,19 @@
 								"tag": "a",
 								"props": { "href": "https://github.com/ysherqawi" },
 								"children": [{ "type": "text", "value": "ysherqawi" }]
+							}
+						]
+					},
+					{
+						"type": "element",
+						"tag": "li",
+						"props": {},
+						"children": [
+							{
+								"type": "element",
+								"tag": "a",
+								"props": { "href": "https://github.com/zephyrus21" },
+								"children": [{ "type": "text", "value": "zephyrus21" }]
 							}
 						]
 					},
@@ -3830,6 +3833,19 @@
 							{
 								"type": "element",
 								"tag": "a",
+								"props": { "href": "https://github.com/n3rd3x3" },
+								"children": [{ "type": "text", "value": "n3rd3x3" }]
+							}
+						]
+					},
+					{
+						"type": "element",
+						"tag": "li",
+						"props": {},
+						"children": [
+							{
+								"type": "element",
+								"tag": "a",
 								"props": { "href": "https://github.com/novatorem" },
 								"children": [{ "type": "text", "value": "novatorem" }]
 							}
@@ -5047,5 +5063,5 @@
 			}
 		]
 	},
-	"lastModified": 1682174963014
+	"lastModified": 1684950313843
 }

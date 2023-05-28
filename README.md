@@ -15,7 +15,7 @@ Get inspired to make your GitHub Profile stand out! Check out our gallery of Imp
   </picture>
 </a>
 
-Remember to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=flat-square&logo=ApacheSpark&logoColor=black) if you found this helpful. Also, We are excited at the prospect of building an impressive community together! Therefore, we would be delighted if you joined our [![Telegram](https://img.shields.io/badge/Telegram_Group-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+ClkvicPF4D0xNzE1) to stay up-to-date with the latest developments in IPR and other outstanding open-source projects.
+Remember to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=flat-square&logo=ApacheSpark&logoColor=black) if you found this helpful.
 
 ## Table of content:
 
@@ -83,6 +83,7 @@ Remember to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=flat-
 - [PluckyPrecious](https://github.com/PluckyPrecious)
 - [poudyalanil](https://github.com/poudyalanil)
 - [proghead00](https://github.com/proghead00)
+- [Ragdata](https://github.com/Ragdata)
 - [rahul-jha98](https://github.com/rahul-jha98)
 - [rajaprerak](https://github.com/rajaprerak)
 - [Raray-chuan](https://github.com/Raray-chuan)
@@ -105,6 +106,7 @@ Remember to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=flat-
 - [WilliamDavidHarrison](https://github.com/WilliamDavidHarrison)
 - [xiaoluoboding](https://github.com/xiaoluoboding)
 - [ysherqawi](https://github.com/ysherqawi)
+- [zephyrus21](https://github.com/zephyrus21)
 - [zumrudu-anka](https://github.com/zumrudu-anka)
 
 #### Animation
@@ -301,6 +303,7 @@ Remember to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=flat-
 - [lucasvazq](https://github.com/lucasvazq)
 - [M0nica](https://github.com/M0nica)
 - [moertel](https://github.com/moertel)
+- [n3rd3x3](https://github.com/n3rd3x3)
 - [novatorem](https://github.com/novatorem)
 - [peterthehan](https://github.com/peterthehan)
 - [pr2tik1](https://github.com/pr2tik1)
